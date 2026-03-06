@@ -1,3 +1,4 @@
+// redeploy
 export default function handler(req, res) {
   const { token } = req.query;
 
