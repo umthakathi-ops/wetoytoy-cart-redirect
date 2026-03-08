@@ -1,0 +1,13 @@
+{
+  "name": "wetoytoy-cart-redirect",
+  "version": "1.0.0",
+  "description": "Created for whatsapp redirection for wetoytoy promotions",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build needed'",
+    "deploy": "vercel deploy"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.4.0"
+  }
+}
